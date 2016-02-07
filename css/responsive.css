@@ -1,0 +1,282 @@
+/* ---------------------------------------------------------------------- */
+/*	Media Queries
+/* ---------------------------------------------------------------------- */
+
+/* Standard 960 or larger (browsers) */
+@media only screen and (min-width: 960px) {
+
+}
+
+/* Smaller than standard 960 (devices and browsers) */
+@media only screen and (max-width: 959px) {
+			
+	.header-ad,
+	.header-social-icons,
+	#slides .slide-content .entry-excerpt,
+	#sidebar {
+		display: none;
+	}
+	#slides .slidesjs-navigation {
+		width: 32px;
+	}	
+	#slides .slidesjs-previous {
+		left: -32px;
+	}
+	#slides .slidesjs-next {
+		right: -32px;
+	}
+	
+}
+
+/* Tablet Portrait size to standard 960 (devices and browsers) */
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+
+	.container,
+	.content-loop,
+	#content {
+		width: 720px;
+	}
+	#slides .slide-content,
+	.footer-column-1, 
+	.footer-column-2, 
+	.footer-column-3, 
+	.footer-column-4 {
+		width: 360px;
+	}
+	#slides .entry-title {
+		margin-bottom: 30px;
+	}
+	#slides .slide-thumbnail {
+		width: 300px;
+	}
+	#slides .slidesjs-navigation {
+		top: 99px;
+	}
+	.coupon-content {
+		width: 390px;
+	}
+	.page-template-template-full-width-php .page-content,	
+	.page-content {
+		width: 660px !important;
+	}
+	#header #search-form {
+		float: right;
+	}
+	
+}
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 767px) {
+
+	#header .container {
+		position: relative;
+	}
+	
+	#responsive-menu {
+		color: #999999;
+		display: none;
+		font-family: Arial, serif;
+		margin: 30px 0 0 0;
+		padding: 30px 0;		
+		width: 100%;
+		background: #ffffff;
+		border: 1px solid #ffffff;
+		border-radius: 3px;
+		border-bottom-color: #eeeeee;
+	}
+	#responsive-menu li {
+		color: #999999;
+		line-height: 30px;
+		margin-left: 30px;
+	}
+	#responsive-menu li li {
+		list-style: disc;
+	}
+	#responsive-menu li a {
+		color: #666666;
+		border-bottom: 1px dotted #cccccc;
+	}
+	#responsive-menu li a:hover {
+		text-decoration: none;
+	}	
+	.btn-nav-right {
+		background: url('../images/icon-menu.png') no-repeat right -1px;
+		color: #999999;
+		display: block;
+		position: absolute;
+		top: 24px;
+		right: 0;
+		font-size: 13px;
+		line-height: 16px;
+		padding-right: 16px;
+		cursor: pointer;
+		text-transform: uppercase;
+	}
+
+	#primary-nav,
+	#header #search-form,
+	.coupon-ratings,
+	.junkie-pagination .prev,
+	.junkie-pagination .next {
+		display: none;
+	}
+	.entry-categories {
+		display: block;
+		margin-bottom: 10px;
+	}
+	.entry-tags {
+		display: block;
+	}
+}
+
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+	.container,
+	.content-loop,
+	#content {
+		width: 420px;
+	}
+	.slidesjs-container {
+		height: 380px !important;
+	}
+	#slides .slide-content,
+	#slides .slide-thumbnail,
+	.entry-thumb-wrapper,
+	.store-thumbnail,
+	.coupon-content,
+	.footer-column-1, 
+	.footer-column-2, 
+	.footer-column-3, 
+	.footer-column-4 {
+		width: 360px;
+	}
+	#slides .entry-title {
+		font-size: 18px;
+		margin-bottom: 20px;
+	}
+	#slides .slidesjs-navigation {
+		top: 110px;
+	}
+	.entry-thumb-wrapper {
+		margin-bottom: 20px;
+	}
+	.page-template-template-full-width-php .page-content,
+	.page-content {
+		width: 360px !important;
+	}
+	.category-list li, 
+	.store-list li {
+		width: 50%;
+	}
+	#formbox label {
+		width: 120px;
+	}
+	#formbox input[type="text"],
+	#formbox input[type="file"] {
+		width: 170px;
+	}
+	#formbox input#verification {
+		width: 32px;
+	}
+	#formbox select {
+		width: 202px;
+	}
+	#formbox .submit-textarea textarea {
+		width: 170px;
+	}
+	#formbox #submit {
+		margin-left: 145px;
+	}
+	
+}
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 479px) {
+	
+	.content-heading span,
+	.commentlist .comment .avatar {
+		display: none;
+	}
+	.container,
+	.content-loop,
+	#content {
+		width: 280px;
+	}
+	.slidesjs-container {
+		height: 320px !important;
+	}
+	#slides .slide-content,
+	#slides .slide-thumbnail,
+	.entry-thumb-wrapper,
+	.store-thumbnail,
+	.coupon-content,
+	.footer-column-1, 
+	.footer-column-2, 
+	.footer-column-3, 
+	.footer-column-4 {
+		width: 220px;
+	}
+	#slides .slide-thumbnail {
+		height: auto;
+		margin-bottom: 15px;
+	}
+	#slides .slide-content .btn {
+		display: block;
+		margin-bottom: 15px;
+		text-align: center;
+	}
+	#slides .entry-title {
+		font-size: 18px;
+		margin-bottom: 20px;
+	}
+	#slides .slidesjs-navigation {
+		top: 70px;
+	}
+	.entry-meta .entry-share,
+	.entry-meta .entry-report {
+		display: none;
+	}
+	.entry-thumb-wrapper {
+		margin-bottom: 20px;
+	}
+	.page-template-template-full-width-php .page-content,
+	.page-content {
+		width: 220px !important;
+	}
+	.category-list li, 
+	.store-list li {
+		width: 100%;
+	}
+	.comment-body {
+		padding-left: 0;
+	}
+	.comment-form input[type="text"] {
+		width: 110px !important;
+	}
+	#formbox p {
+		height: 80px;
+		margin-bottom: 15px;
+	}
+	#formbox label {
+		width: 100%;
+		padding: 0;
+		text-align: center;
+	}
+	#formbox input[type="text"],
+	#formbox input[type="file"] {
+		width: 188px;
+	}
+	#formbox input#verification {
+		width: 42px;
+	}
+	#formbox select {
+		width: 220px;
+	}
+	#formbox .submit-textarea textarea {
+		width: 188px;
+	}
+	#formbox #submit {
+		margin-left: 0;
+	}
+	
+}

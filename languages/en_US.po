@@ -1,0 +1,860 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Deals 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-17 15:39+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Roy Guan <roy@theme-junkie.com>\n"
+"Language-Team: Theme Junkie <support@theme-junkie.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: ../404.php:4
+msgid "Error 404"
+msgstr ""
+
+#: ../404.php:8
+msgid "The page you've requested <strong>can not be displayed</strong>. It appears you've missed your intended destination, either through a bad or outdated link, or a typo in the page you were hoping to reach."
+msgstr ""
+
+#: ../archive.php:8
+#, php-format
+msgid "All posts in %s"
+msgstr ""
+
+#: ../archive.php:10
+#, php-format
+msgid "All posts tagged %s"
+msgstr ""
+
+#: ../archive.php:12
+#: ../archive.php:14
+#: ../archive.php:16
+msgid "Archive for"
+msgstr ""
+
+#: ../archive.php:18
+msgid "All posts by"
+msgstr ""
+
+#: ../archive.php:20
+msgid "Blog Archives"
+msgstr ""
+
+#: ../comments-mini.php:3
+msgid "Want to say something?"
+msgstr ""
+
+#: ../comments-mini.php:3
+#: ../comments.php:81
+msgid "Add Comment"
+msgstr ""
+
+#: ../comments-mini.php:10
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: ../comments-mini.php:14
+#: ../comments.php:13
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../comments.php:29
+msgid "No Comments"
+msgstr ""
+
+#: ../comments.php:29
+msgid "1 Comment"
+msgstr ""
+
+#: ../comments.php:29
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:41
+msgid "Trackbacks"
+msgstr ""
+
+#: ../comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:77
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../comments.php:78
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out &raquo;</a>"
+msgstr ""
+
+#: ../comments.php:82
+#, php-format
+msgid "Reply to %s"
+msgstr ""
+
+#: ../comments.php:83
+msgid "Cancel Reply"
+msgstr ""
+
+#: ../comments.php:84
+msgid "Submit Comment"
+msgstr ""
+
+#: ../content-none.php:2
+msgid "Nothing Found"
+msgstr ""
+
+#: ../content-none.php:8
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../content-none.php:12
+msgid "Sorry, but nothing matched your search terms. Please try again with different keywords."
+msgstr ""
+
+#: ../content-none.php:17
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: ../content-post.php:16
+#: ../content.php:224
+#: ../page.php:17
+msgid "Edit"
+msgstr ""
+
+#: ../content-post.php:26
+msgid "Continue Reading &rarr;"
+msgstr ""
+
+#: ../content-post.php:37
+#: ../page.php:13
+msgid "Pages:"
+msgstr ""
+
+#: ../content-post.php:47
+#: ../content.php:247
+msgid "Posted in:"
+msgstr ""
+
+#: ../content-post.php:53
+msgid "Tags: "
+msgstr ""
+
+#: ../content.php:109
+msgid "Code:"
+msgstr ""
+
+#: ../content.php:127
+msgid "visit store"
+msgstr ""
+
+#: ../content.php:154
+msgid "Share"
+msgstr ""
+
+#: ../content.php:158
+msgid "Twitter"
+msgstr ""
+
+#: ../content.php:160
+msgid "Facebook"
+msgstr ""
+
+#: ../content.php:162
+msgid "Google Plus"
+msgstr ""
+
+#: ../content.php:164
+msgid "Pinterest"
+msgstr ""
+
+#: ../content.php:172
+msgid "Report"
+msgstr ""
+
+#: ../content.php:177
+msgid "Invalid Coupon Code"
+msgstr ""
+
+#: ../content.php:178
+msgid "Expired Coupon"
+msgstr ""
+
+#: ../content.php:179
+msgid "Offensive Content"
+msgstr ""
+
+#: ../content.php:180
+msgid "Invalid Link"
+msgstr ""
+
+#: ../content.php:181
+msgid "Spam"
+msgstr ""
+
+#: ../content.php:182
+msgid "Other"
+msgstr ""
+
+#: ../content.php:185
+msgid "Submit"
+msgstr ""
+
+#: ../content.php:219
+msgid "Comments"
+msgstr ""
+
+#: ../content.php:255
+msgid "Tags:"
+msgstr ""
+
+#: ../footer.php:38
+msgid "All rights reserved"
+msgstr ""
+
+#: ../header.php:51
+msgid "Menu"
+msgstr ""
+
+#: ../header.php:70
+msgid "Home"
+msgstr ""
+
+#: ../index.php:55
+msgid "Read More"
+msgstr ""
+
+#: ../index.php:56
+msgid "or"
+msgstr ""
+
+#: ../index.php:57
+msgid "View all"
+msgstr ""
+
+#: ../index.php:57
+msgid "coupons"
+msgstr ""
+
+#: ../index.php:71
+msgid "New Coupons"
+msgstr ""
+
+#: ../index.php:72
+msgid "There are currently"
+msgstr ""
+
+#: ../index.php:72
+msgid "active coupons"
+msgstr ""
+
+#: ../search.php:6
+#, php-format
+msgid "Search Results for &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../search.php:10
+msgid "Active Coupons"
+msgstr ""
+
+#: ../searchform.php:3
+msgid "Find a coupon"
+msgstr ""
+
+#: ../searchform.php:4
+msgid "Go"
+msgstr ""
+
+#: ../taxonomy-coupon_cat.php:8
+msgid "Coupons in the"
+msgstr ""
+
+#: ../taxonomy-coupon_cat.php:8
+msgid "category"
+msgstr ""
+
+#: ../taxonomy-coupon_cat.php:12
+#: ../taxonomy-coupon_tag.php:14
+#: ../taxonomy-coupon_type.php:14
+msgid "Active coupons"
+msgstr ""
+
+#: ../taxonomy-coupon_cat.php:31
+#: ../taxonomy-coupon_tag.php:35
+#: ../taxonomy-coupon_type.php:34
+msgid "Unreliable coupons"
+msgstr ""
+
+#: ../taxonomy-coupon_store.php:57
+msgid "Unreliable Coupons"
+msgstr ""
+
+#: ../taxonomy-coupon_tag.php:10
+msgid "Coupons tagged with"
+msgstr ""
+
+#: ../taxonomy-coupon_type.php:10
+msgid "All"
+msgstr ""
+
+#: ../taxonomy-coupon_type.php:10
+msgid "s"
+msgstr ""
+
+#: ../template-archives.php:14
+msgid "The Latest 30 Posts"
+msgstr ""
+
+#: ../template-archives.php:23
+#: ../template-sitemap.php:29
+msgid "Categories"
+msgstr ""
+
+#: ../template-archives.php:29
+msgid "Monthly Archives"
+msgstr ""
+
+#: ../template-blog.php:11
+msgid "posts"
+msgstr ""
+
+#: ../template-cats.php:37
+msgid "Sorry, but no coupon categories were found."
+msgstr ""
+
+#: ../template-cats.php:46
+msgid "View Coupon by Category"
+msgstr ""
+
+#: ../template-contact.php:68
+msgid "Thanks, your email was sent successfully. "
+msgstr ""
+
+#: ../template-contact.php:78
+msgid "Name:"
+msgstr ""
+
+#: ../template-contact.php:85
+msgid "Email:"
+msgstr ""
+
+#: ../template-contact.php:92
+msgid "Message:"
+msgstr ""
+
+#: ../template-contact.php:101
+msgid "Send Email"
+msgstr ""
+
+#: ../template-sitemap.php:21
+msgid "Pages"
+msgstr ""
+
+#: ../template-sitemap.php:38
+msgid "Posts per category"
+msgstr ""
+
+#: ../template-stores.php:51
+msgid "Sorry, but no stores were found."
+msgstr ""
+
+#: ../template-stores.php:60
+msgid "View Coupon by Store"
+msgstr ""
+
+#: ../template-submit.php:205
+msgid "Thanks, your coupon was submitted successfully."
+msgstr ""
+
+#: ../template-submit.php:244
+msgid "Coupon Title"
+msgstr ""
+
+#: ../template-submit.php:246
+msgid "Coupon Store"
+msgstr ""
+
+#: ../template-submit.php:249
+msgid "New Store Name"
+msgstr ""
+
+#: ../template-submit.php:251
+msgid "New Store URL"
+msgstr ""
+
+#: ../template-submit.php:253
+msgid "New Store Image"
+msgstr ""
+
+#: ../template-submit.php:255
+msgid "Coupon Category"
+msgstr ""
+
+#: ../template-submit.php:258
+msgid "Coupon Type"
+msgstr ""
+
+#: ../template-submit.php:270
+msgid "Coupon Code"
+msgstr ""
+
+#: ../template-submit.php:272
+msgid "Printed Coupon"
+msgstr ""
+
+#: ../template-submit.php:274
+msgid "Destination URL"
+msgstr ""
+
+#: ../template-submit.php:276
+msgid "Expiration Date"
+msgstr ""
+
+#: ../template-submit.php:279
+msgid "Coupon Tags"
+msgstr ""
+
+#: ../template-submit.php:283
+msgid "Verification Code"
+msgstr ""
+
+#: ../template-submit.php:283
+msgid "Refresh"
+msgstr ""
+
+#: ../template-submit.php:285
+msgid "Full Description"
+msgstr ""
+
+#: ../template-submit.php:292
+msgid "You need to"
+msgstr ""
+
+#: ../template-submit.php:292
+msgid "log in"
+msgstr ""
+
+#: ../template-submit.php:292
+msgid "to use the submission form."
+msgstr ""
+
+#: ../functions/shortcodes/tinymce/window_page.php:6
+#: ../functions/shortcodes/tinymce/window_post.php:6
+msgid "You are not allowed to be here"
+msgstr ""
+
+#: ../functions/shortcodes/tinymce/window_page.php:42
+#: ../functions/shortcodes/tinymce/window_post.php:42
+msgid "Select Shortcodes"
+msgstr ""
+
+#: ../includes/custom-functions.php:14
+msgid "Primary Nav"
+msgstr ""
+
+#: ../includes/custom-functions.php:105
+#, php-format
+msgid "<cite class=\"fn\">%s</cite> <span class=\"says\">says:</span>"
+msgstr ""
+
+#: ../includes/custom-functions.php:108
+#: ../includes/custom-functions.php:148
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../includes/custom-functions.php:108
+#: ../includes/custom-functions.php:148
+msgid "(Edit)"
+msgstr ""
+
+#: ../includes/custom-functions.php:111
+#: ../includes/custom-functions.php:142
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../includes/custom-functions.php:317
+msgid "Leave a Comment"
+msgstr ""
+
+#: ../includes/custom-functions.php:505
+msgid "&laquo;"
+msgstr ""
+
+#: ../includes/custom-functions.php:506
+msgid "&raquo;"
+msgstr ""
+
+#: ../includes/custom-functions.php:526
+#: ../includes/custom-functions.php:1434
+msgid "Thumbnail"
+msgstr ""
+
+#: ../includes/custom-functions.php:547
+msgid "None"
+msgstr ""
+
+#: ../includes/custom-functions.php:605
+msgid "Search Stores"
+msgstr ""
+
+#: ../includes/custom-functions.php:606
+msgid "All Stores"
+msgstr ""
+
+#: ../includes/custom-functions.php:607
+msgid "Parent Store"
+msgstr ""
+
+#: ../includes/custom-functions.php:608
+msgid "Parent Store:"
+msgstr ""
+
+#: ../includes/custom-functions.php:609
+msgid "Edit Store"
+msgstr ""
+
+#: ../includes/custom-functions.php:610
+msgid "Update Store"
+msgstr ""
+
+#: ../includes/custom-functions.php:611
+msgid "Add New Store"
+msgstr ""
+
+#: ../includes/custom-functions.php:613
+msgid "Stores"
+msgstr ""
+
+#: ../includes/custom-functions.php:619
+msgid "Search Types"
+msgstr ""
+
+#: ../includes/custom-functions.php:620
+msgid "All Coupon Types"
+msgstr ""
+
+#: ../includes/custom-functions.php:621
+msgid "Parent Coupon Type"
+msgstr ""
+
+#: ../includes/custom-functions.php:622
+msgid "Parent Coupon Type:"
+msgstr ""
+
+#: ../includes/custom-functions.php:623
+msgid "Edit Coupon Type"
+msgstr ""
+
+#: ../includes/custom-functions.php:624
+msgid "Update Coupon Type"
+msgstr ""
+
+#: ../includes/custom-functions.php:625
+msgid "Add New Coupon Type"
+msgstr ""
+
+#: ../includes/custom-functions.php:626
+msgid "New Coupon Name"
+msgstr ""
+
+#: ../includes/custom-functions.php:627
+msgid "Coupon Types"
+msgstr ""
+
+#: ../includes/custom-functions.php:632
+msgid "Search Category"
+msgstr ""
+
+#: ../includes/custom-functions.php:633
+msgid "All Coupon Categorys"
+msgstr ""
+
+#: ../includes/custom-functions.php:634
+msgid "Parent Coupon Category"
+msgstr ""
+
+#: ../includes/custom-functions.php:635
+msgid "Parent Coupon Category:"
+msgstr ""
+
+#: ../includes/custom-functions.php:636
+msgid "Edit Coupon Category"
+msgstr ""
+
+#: ../includes/custom-functions.php:637
+msgid "Update Coupon Category"
+msgstr ""
+
+#: ../includes/custom-functions.php:638
+msgid "Add New Coupon Category"
+msgstr ""
+
+#: ../includes/custom-functions.php:639
+msgid "New Coupon Category Name"
+msgstr ""
+
+#: ../includes/custom-functions.php:645
+msgid "Search Tag"
+msgstr ""
+
+#: ../includes/custom-functions.php:646
+msgid "All Coupon Tags"
+msgstr ""
+
+#: ../includes/custom-functions.php:647
+msgid "Parent Coupon Tag"
+msgstr ""
+
+#: ../includes/custom-functions.php:648
+msgid "Parent Coupon Tag:"
+msgstr ""
+
+#: ../includes/custom-functions.php:649
+msgid "Edit Coupon Tag"
+msgstr ""
+
+#: ../includes/custom-functions.php:650
+msgid "Update Coupon Tag"
+msgstr ""
+
+#: ../includes/custom-functions.php:651
+msgid "Add New Coupon Tag"
+msgstr ""
+
+#: ../includes/custom-functions.php:652
+msgid "New Coupon Tag Name"
+msgstr ""
+
+#: ../includes/custom-functions.php:800
+#: ../includes/custom-functions.php:1121
+#: ../includes/custom-functions.php:1267
+msgid "Insert"
+msgstr ""
+
+#: ../includes/custom-functions.php:1019
+msgid "Coupon Meta"
+msgstr ""
+
+#: ../includes/custom-functions.php:1026
+msgid "Issue Report"
+msgstr ""
+
+#: ../includes/custom-functions.php:1070
+#: ../includes/custom-functions.php:1179
+#: ../includes/custom-functions.php:1450
+msgid "Store URL"
+msgstr ""
+
+#: ../includes/custom-functions.php:1072
+#: ../includes/custom-functions.php:1182
+msgid "The URL for the store (i.e. http://www.mysite.com)"
+msgstr ""
+
+#: ../includes/custom-functions.php:1077
+#: ../includes/custom-functions.php:1190
+msgid "The affiliate URL for the store (i.e. http://www.mysite.com/?affid=12345)"
+msgstr ""
+
+#: ../includes/custom-functions.php:1080
+#: ../includes/custom-functions.php:1224
+msgid "Store Image"
+msgstr ""
+
+#: ../includes/custom-functions.php:1084
+#: ../includes/custom-functions.php:1229
+msgid "Add Image"
+msgstr ""
+
+#: ../includes/custom-functions.php:1085
+#: ../includes/custom-functions.php:1230
+msgid "Remove Image"
+msgstr ""
+
+#: ../includes/custom-functions.php:1088
+#: ../includes/custom-functions.php:1233
+msgid "Choose custom image for the store. (best size: 360x300)"
+msgstr ""
+
+#: ../includes/custom-functions.php:1195
+msgid "Display URL"
+msgstr ""
+
+#: ../includes/custom-functions.php:1200
+msgid "Clicks"
+msgstr ""
+
+#: ../includes/custom-functions.php:1205
+msgid "Store Active"
+msgstr ""
+
+#: ../includes/custom-functions.php:1208
+msgid "Yes"
+msgstr ""
+
+#: ../includes/custom-functions.php:1209
+msgid "No"
+msgstr ""
+
+#: ../includes/custom-functions.php:1215
+msgid "Store Screenshot"
+msgstr ""
+
+#: ../includes/custom-functions.php:1421
+msgid "Title"
+msgstr ""
+
+#: ../includes/custom-functions.php:1422
+msgid "Submitted"
+msgstr ""
+
+#: ../includes/custom-functions.php:1423
+msgid "Store"
+msgstr ""
+
+#: ../includes/custom-functions.php:1425
+msgid "Type"
+msgstr ""
+
+#: ../includes/custom-functions.php:1426
+msgid "Coupon"
+msgstr ""
+
+#: ../includes/custom-functions.php:1428
+msgid "Votes"
+msgstr ""
+
+#: ../includes/custom-functions.php:1429
+msgid "Clicks / Views"
+msgstr ""
+
+#: ../includes/custom-functions.php:1430
+msgid "CTR"
+msgstr ""
+
+#: ../includes/custom-functions.php:1431
+msgid "Date"
+msgstr ""
+
+#: ../includes/custom-functions.php:1446
+msgid "Image"
+msgstr ""
+
+#: ../includes/custom-functions.php:1447
+msgid "Name"
+msgstr ""
+
+#: ../includes/custom-functions.php:1451
+msgid "Destination "
+msgstr ""
+
+#: ../includes/custom-functions.php:1452
+msgid "Slug"
+msgstr ""
+
+#: ../includes/custom-functions.php:1453
+msgid "Active"
+msgstr ""
+
+#: ../includes/custom-functions.php:1454
+msgid "Coupons"
+msgstr ""
+
+#: ../includes/form-process.php:77
+msgid "Please besure the verification code."
+msgstr ""
+
+#: ../includes/form-process.php:81
+msgid "Please fill Portfolio Title."
+msgstr ""
+
+#: ../includes/form-process.php:86
+msgid "images fotmat limit : \"gif\",\"jpg\",\"jpeg\",\"png\""
+msgstr ""
+
+#: ../includes/sidebar-init.php:5
+msgid "Sidebar"
+msgstr ""
+
+#: ../includes/sidebar-init.php:7
+msgid "Appears in the sidebar section of the site."
+msgstr ""
+
+#: ../includes/sidebar-init.php:15
+msgid "Footer (column1)"
+msgstr ""
+
+#: ../includes/sidebar-init.php:17
+#: ../includes/sidebar-init.php:27
+#: ../includes/sidebar-init.php:37
+#: ../includes/sidebar-init.php:47
+msgid "Appears in the footer section of the site."
+msgstr ""
+
+#: ../includes/sidebar-init.php:25
+msgid "Footer (column2)"
+msgstr ""
+
+#: ../includes/sidebar-init.php:35
+msgid "Footer (column3)"
+msgstr ""
+
+#: ../includes/sidebar-init.php:45
+msgid "Footer (column4)"
+msgstr ""
+
+#: ../includes/widgets/widget-ads.php:10
+msgid "ThemeJunkie - Advertisement"
+msgstr ""
+
+#: ../includes/widgets/widget-ads.php:53
+msgid "Title (optional):"
+msgstr ""
+
+#: ../includes/widgets/widget-ads.php:57
+msgid "Ad Code:"
+msgstr ""
+
+#: ../includes/widgets/widget-ads.php:62
+msgid "Image Url:"
+msgstr ""
+
+#: ../includes/widgets/widget-ads.php:66
+msgid "Link URL:"
+msgstr ""
+
+#: ../includes/widgets/widget-ads.php:70
+msgid "Alt text:"
+msgstr ""
+
+#: ../includes/widgets/widget-feedburner.php:9
+msgid "Feedburner Email Subscription Box"
+msgstr ""
+
+#: ../includes/widgets/widget-feedburner.php:11
+msgid "ThemeJunkie - Feedburner"
+msgstr ""
+
+#: ../includes/widgets/widget-feedburner.php:22
+msgid "Get coupons in your email box"
+msgstr ""
+
+#: ../includes/widgets/widget-feedburner.php:23
+msgid "Complete the form below, and we'll send you the best coupons."
+msgstr ""
+
+#: ../includes/widgets/widget-feedburner.php:49
+msgid "Enter your Feedburner ID:"
+msgstr ""
+

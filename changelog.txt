@@ -1,0 +1,10 @@
+*** Deals Changelog ***
+
+2014.01.17 - version 1.0.2
+ * taxonomy-coupon_store.php - Fixed blank data if store doesn't contain any coupon
+
+2013.12.12 - version 1.0.1
+ * taxonomy-coupon_store.php - Fixed PHP warning if store doesn't contain any coupons 
+ 
+2013.12.12 - version 1.0.0
+ * First release!

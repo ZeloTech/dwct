@@ -1,0 +1,50 @@
+a:link,
+a:visited { 
+	color: #587C12;
+}
+a:hover,
+h1 a:hover,
+h2 a:hover,
+h3 a:hover,
+h4 a:hover,
+h5 a:hover,
+h6 a:hover,
+.entry-title a:hover,
+.content-heading span strong,
+.junkie-pagination .current,
+.junkie-pagination .page-numbers:hover { 
+	color: #679b08;	 
+}
+#primary-nav,
+.hentry .pop-info,
+.btn,
+button,
+input[type="submit"],
+input[type="button"],
+input[type="reset"] { 
+	background: #679b08;	 
+}
+
+.nav li:hover a, 
+.nav li:hover a:active,
+.btn:hover,
+button:hover,
+button:focus,
+input[type="submit"]:hover,
+input[type="button"]:hover,
+input[type="reset"]:hover,
+input[type="submit"]:focus,
+input[type="button"]:focus,
+input[type="reset"]:focus { 
+	background: #7db701;	 
+}
+
+#primary-nav,
+.nav li a,
+.btn,
+button,
+input[type="submit"],
+input[type="button"],
+input[type="reset"] {
+	border-color: #668822;
+}
